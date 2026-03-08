@@ -1,0 +1,6 @@
+/home/abyss/vitafetch/build/CMakeFiles/vitafetch.dir
+/home/abyss/vitafetch/build/CMakeFiles/vitafetch-velf.dir
+/home/abyss/vitafetch/build/CMakeFiles/vitafetch.self-self.dir
+/home/abyss/vitafetch/build/CMakeFiles/vitafetch.vpk-vpk.dir
+/home/abyss/vitafetch/build/CMakeFiles/edit_cache.dir
+/home/abyss/vitafetch/build/CMakeFiles/rebuild_cache.dir

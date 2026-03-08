@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/abyss/vitafetch/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
