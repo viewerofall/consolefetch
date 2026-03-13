@@ -26,7 +26,7 @@ A collection of native homebrew fetch tools — one per platform, each written i
 - Shows firmware, CFW (HENkaku / Enso / Stock), region, CPU/GPU clocks, battery, ux0 and ur0 storage
 - Built with vitasdk and vita2d
 
-→ [Full details](vita/README.md)
+→ [Full details](vitafetch/README.md)
 
 ---
 
@@ -40,7 +40,7 @@ A collection of native homebrew fetch tools — one per platform, each written i
 - Bottom screen shows GitHub info and exit hint
 - Built with devkitARM and libctru
 
-→ [Full details](3ds/README.md)
+→ [Full details](3dsfetch/README.md)
 
 ---
 
