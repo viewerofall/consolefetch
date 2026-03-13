@@ -13,8 +13,8 @@ A collection of native homebrew fetch tools — one per platform, each written i
 
 | Platform | Folder | Format | Store |
 |----------|--------|--------|-------|
-| PlayStation Vita / PS TV | [`vita/`](vita/) | `.vpk` | [VitaDB](https://vitadb.rinnegatamante.it) |
-| Nintendo 3DS family | [`3ds/`](3ds/) | `.3dsx` `.cia` | [Universal-DB](https://db.universal-team.net) |
+| PlayStation Vita / PS TV | [`vita/`](vitafetch/) | `.vpk` | [VitaDB](https://vitadb.rinnegatamante.it) |
+| Nintendo 3DS family | [`3ds/`](3dsfetch/) | `.3dsx` `.cia` | [Universal-DB](https://db.universal-team.net) |
 
 ---
 
@@ -52,7 +52,7 @@ Each platform has its own toolchain and Makefile. See the README in each subfold
 
 ## Planned
 
-- `wii/` — wiifetch for Nintendo Wii
+- `wiifetch/` — wiifetch for Nintendo Wii
 
 ---
 
