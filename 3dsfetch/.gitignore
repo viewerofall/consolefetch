@@ -1,0 +1,15 @@
+build/
+*.3dsx
+*.elf
+*.smdh
+*.map
+*.o
+*.d
+*.a
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+compile_commands.json
