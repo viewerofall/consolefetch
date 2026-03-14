@@ -15,6 +15,9 @@ _deps/
 
 vitafetch/build
 3dsfetch/build
+wiifetch/build
+wiifetch/wiifetch.dol
+wiifetch/wiifetch.elf
 
 # vitasdk intermediate objects
 *.o
