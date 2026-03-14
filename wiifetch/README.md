@@ -6,6 +6,9 @@ A native Wii homebrew fetch tool written in C using libogc. Displays system info
 
 Inspiration & bits of code from [NiioFetch](https://github.com/abdelali221/NiioFetch) by abdelali221.
 
+![Examplar icon for it](wiifetch/icon_animated.gif)
+
+
 ---
 
 ## Features
